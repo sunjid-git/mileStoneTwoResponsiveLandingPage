@@ -1,0 +1,11 @@
+/* to change card border */
+.penguin-card{
+    border: 0;
+}
+
+/* to change footer style */
+.penguin-footer-card{
+    background-color: white;
+    border: 0;
+    margin-bottom:15px ;
+}
