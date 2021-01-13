@@ -1,3 +1,14 @@
+
+/* Bebas Neue font */
+.bebas-font{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+/* Robota font */
+.robota-font{
+    font-family: 'Roboto', sans-serif;
+}
+
 /* to change card border */
 .penguin-card{
     border: 0;
