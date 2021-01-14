@@ -1,6 +1,6 @@
 /* header background color */
 .header-background{
-    background-color: #FFF9F4;
+    background-color: #FFFBF0;
 }
 /* Bebas Neue font */
 .bebas-font{
@@ -12,7 +12,7 @@
     font-family: 'Roboto', sans-serif;
 }
 .text-color{
-    color: #FA804C;
+    color: #FABE4C;
 }
 
 /* to change card border */
@@ -30,14 +30,20 @@
 /* All button design style */
 .btn-submit{
     color:white;
-    background-color: #3B4CE7;
+    background-color: #8BA621;
     border: 0;
     border-radius: .5em;
     padding: 10px 25px;
-    box-shadow: 10px 10 50px black;
 }
 
-
+/* dress img design */
+.dress-img{
+    width: 100%;
+    height: 425px;
+    background-color: #F1F1F1;
+    padding: 25px;
+    border-radius: 15px;
+}
 .partition img{
     width: 100%;
     height: 80%;
