@@ -26,12 +26,8 @@
 /* to change card border */
 .penguin-card{
     border: 0;
-    transition-duration: .5s ;
-    transition-delay:.1s ;
 }
-.penguin-card:hover{
-    background-color: #FFFBF0;
-}
+
 
 /* to change footer style */
 .penguin-footer-card{
