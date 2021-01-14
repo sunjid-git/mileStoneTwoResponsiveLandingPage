@@ -12,8 +12,6 @@
     font-family: 'Roboto', sans-serif;
 }
 
-
-
 /* front banner text title color  */
 .text-color{
     color: #FABE4C;
@@ -29,6 +27,7 @@
 .penguin-card{
     border: 0;
 }
+
 /* to change footer style */
 .penguin-footer-card{
     background-color: white;
@@ -42,6 +41,14 @@
     border: 0;
     border-radius: .5em;
     padding: 10px 25px;
+    transition-duration: .5s ;
+    transition-delay:.1s ;
+}
+
+.btn-submit:hover{
+    transform: scale(1.1);
+    background-color: #FABE4C;
+    color: #363958;
 }
 /* Fron img */
 .main-img{
@@ -56,11 +63,22 @@
     background-color: #F1F1F1;
     padding: 25px;
     border-radius: 20px;
+    transition-duration: .5s ;
+}
+.dress-img:hover{
+    transform: scale(1.05);
+    background-color: #c2b7b7;
 }
 /* card-resize to look good */
 .card-resize{
     border-radius: 20px;
+    transition-duration: .5s ;
 }
+.card-resize:hover{
+    transform: scale(1.05);
+}
+
+/* transparent part design */
 .partition img{
     width: 100%;
     height: 80%;
