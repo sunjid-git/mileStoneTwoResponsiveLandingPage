@@ -26,6 +26,11 @@
 /* to change card border */
 .penguin-card{
     border: 0;
+    transition-duration: .5s ;
+    transition-delay:.1s ;
+}
+.penguin-card:hover{
+    background-color: #FFFBF0;
 }
 
 /* to change footer style */
@@ -72,12 +77,7 @@
 /* card-resize to look good */
 .card-resize{
     border-radius: 20px;
-    transition-duration: .5s ;
 }
-.card-resize:hover{
-    transform: scale(1.05);
-}
-
 /* transparent part design */
 .partition img{
     width: 100%;
@@ -90,8 +90,15 @@
     width: 80px;
     height: 5rem;
 }
-
-
+/* transparent card hover */
+.white-card{
+    border-radius: 20px;
+    transition-duration: .5s ;
+}
+.white-card:hover{
+    transform: scale(1.05);
+    background-color: #FFFBF0;
+}
 /* design style of find us here */
 .stay-touched-color{
     background-color: #FFF9F4;
