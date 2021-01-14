@@ -11,22 +11,30 @@
 .robota-font{
     font-family: 'Roboto', sans-serif;
 }
+
+
+
+/* front banner text title color  */
 .text-color{
     color: #FABE4C;
 }
-
+.title-color{
+    color: #363958;
+}
+.banner-text-style{
+    font-size: 50px;
+    font-weight: bolder;
+}
 /* to change card border */
 .penguin-card{
     border: 0;
 }
-
 /* to change footer style */
 .penguin-footer-card{
     background-color: white;
     border: 0;
     margin-bottom:15px ;
 }
-
 /* All button design style */
 .btn-submit{
     color:white;
@@ -35,7 +43,12 @@
     border-radius: .5em;
     padding: 10px 25px;
 }
-
+/* Fron img */
+.main-img{
+    width: 80%;
+    height: 80%;
+    padding: 35px;
+}
 /* dress img design */
 .dress-img{
     width: 100%;
