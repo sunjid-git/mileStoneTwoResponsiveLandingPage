@@ -1,4 +1,7 @@
-
+/* header background color */
+.header-background{
+    background-color: #FFF9F4;
+}
 /* Bebas Neue font */
 .bebas-font{
     font-family: 'Bebas Neue', cursive;
@@ -60,5 +63,7 @@ input{
     padding: 10px;
     border-radius: .5em;
 }
+
+
 
 
