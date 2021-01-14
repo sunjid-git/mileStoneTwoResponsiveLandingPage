@@ -8,6 +8,9 @@
 .robota-font{
     font-family: 'Roboto', sans-serif;
 }
+.text-color{
+    color: #FA804C;
+}
 
 /* to change card border */
 .penguin-card{
@@ -24,7 +27,7 @@
 /* All button design style */
 .btn-submit{
     color:white;
-    background-color: #8EA827;
+    background-color: #3B4CE7;
     border: 0;
     border-radius: .5em;
     padding: 10px 25px;
@@ -45,11 +48,12 @@
     line-height: 25px;
     height: 300px;
 }
+
+/* input design of find us here */
 input{
     border: 0;
     padding: 10px;
     border-radius: .5em;
-    
 }
 
 
