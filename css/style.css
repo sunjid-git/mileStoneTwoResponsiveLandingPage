@@ -42,7 +42,11 @@
     height: 425px;
     background-color: #F1F1F1;
     padding: 25px;
-    border-radius: 15px;
+    border-radius: 20px;
+}
+/* card-resize to look good */
+.card-resize{
+    border-radius: 20px;
 }
 .partition img{
     width: 100%;
